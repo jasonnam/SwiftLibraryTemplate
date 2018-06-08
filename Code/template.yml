@@ -1,0 +1,7 @@
+description: Swift Code
+variables:
+  - name: File Name
+  - name: Library Name
+  - name: Author
+  - name: Author Website URL
+  - name: Year
