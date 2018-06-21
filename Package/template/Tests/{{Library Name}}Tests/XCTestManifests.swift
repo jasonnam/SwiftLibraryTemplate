@@ -2,7 +2,7 @@
 //  XCTestManifests.swift
 //  {{Library Name}}Tests
 //
-//  Copyright (c) {{Year}} {{Author}} ({{Author Website URL}})
+//  Copyright (c) {{DATE:YEAR}} {{Author}} ({{Author Website URL}})
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to deal

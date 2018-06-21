@@ -4,6 +4,5 @@ variables:
   - name: Library Name
   - name: Author
   - name: Author Website URL
-  - name: Year
 posthooks:
   - git_init.sh

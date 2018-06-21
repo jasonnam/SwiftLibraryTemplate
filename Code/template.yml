@@ -4,4 +4,3 @@ variables:
   - name: Library Name
   - name: Author
   - name: Author Website URL
-  - name: Year
